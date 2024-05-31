@@ -9,3 +9,4 @@ int main()
     cout << "Author: Shnitkov Vadim\n";
     return 0;
 }
+//gggg
